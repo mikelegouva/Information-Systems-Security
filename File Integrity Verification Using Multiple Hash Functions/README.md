@@ -29,7 +29,7 @@ No additional installation is required, just ensure you have Python 3.12 or high
 ### Example Code
 
 ```python
-file_path = r"PATH_TO_YOUR_FILE"
+file_path = r"PATH"
 original_hashes = calculate_hashes(file_path)
 print("Original Hashes:", original_hashes)
 
